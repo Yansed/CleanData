@@ -19,7 +19,7 @@
 
 # Code Book of Result Dataset - "result.txt"
 
-V1 - integer, 1,2,...,180, row number;
-V2 - Factor with 6 levels as ""LAYING","SITTING","WALKING","WALKING_DOWNSTAIRS", and "WALKING_UPSTAIRS" - in alphabetic order
-V3 - integer, 1,2, ..., 30, reprsenting 30 participants;
-V4 - numeric, representing the mean of meansurements that contains either "mean" or "std" in column names
+1. V1 - integer, 1,2,...,180, row number;
+2. V2 - Factor with 6 levels as ""LAYING","SITTING","WALKING","WALKING_DOWNSTAIRS", and "WALKING_UPSTAIRS" - in alphabetic order
+3. V3 - integer, 1,2, ..., 30, reprsenting 30 participants;
+4. V4 - numeric, representing the mean of meansurements that contains either "mean" or "std" in column names
